@@ -20,8 +20,8 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>Skule Sørmo</o:Author>
-  <o:LastAuthor>Skule Sørmo</o:LastAuthor>
+  <o:Author>Skule SÃ¸rmo</o:Author>
+  <o:LastAuthor>Skule SÃ¸rmo</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>12</o:TotalTime>
   <o:Created>2019-07-25T06:55:00Z</o:Created>
@@ -858,7 +858,7 @@ and Alexa. Why not make a similar device for the new lamp also? <o:p></o:p></spa
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt;line-height:107%;
 mso-ansi-language:EN-US'>Since the new lamp is a LED device, I had to make a
 pulse width modulation unit controlled by some smart microcontroller
-device.<span style='mso-spacerun:yes'>  </span>We studied the controller initially
+device.<span style='mso-spacerun:yes'>Â  </span>We studied the controller initially
 installed in the lamp and found out that the LEDs were supported by a <span
 class=GramE>40 volt</span> DC power supply at the current rate up to 700 mA.<o:p></o:p></span></p>
 
@@ -911,7 +911,7 @@ class=SpellE>ArduinoOTA.h</span>.<o:p></o:p></span></p>
  <v:imagedata src="manus%20kjokkenlampe1-filer/image001.jpg" o:title=""/>
  <w:wrap type="square" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=170 height=170
-src="readme-filer/image002.jpg" align=left hspace=12 v:shapes="Bilde_x0020_4"><![endif]><!--[if gte vml 1]><v:shape
+src="README-filer/image002.jpg" align=left hspace=12 v:shapes="Bilde_x0020_4"><![endif]><!--[if gte vml 1]><v:shape
  id="Bilde_x0020_3" o:spid="_x0000_s1028" type="#_x0000_t75" style='position:absolute;
  margin-left:-31.5pt;margin-top:-333.75pt;width:133.5pt;height:133.5pt;
  z-index:251660288;visibility:visible;mso-wrap-style:square;
@@ -924,7 +924,7 @@ src="readme-filer/image002.jpg" align=left hspace=12 v:shapes="Bilde_x0020_4"><!
  <v:imagedata src="manus%20kjokkenlampe1-filer/image003.jpg" o:title=""/>
  <w:wrap type="square" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=178 height=178
-src="readme-filer/image004.jpg" align=left hspace=12 v:shapes="Bilde_x0020_3"><![endif]><!--[if gte vml 1]><v:shape
+src="README-filer/image004.jpg" align=left hspace=12 v:shapes="Bilde_x0020_3"><![endif]><!--[if gte vml 1]><v:shape
  id="Bilde_x0020_2" o:spid="_x0000_s1027" type="#_x0000_t75" style='position:absolute;
  margin-left:-31.5pt;margin-top:-333.75pt;width:98.25pt;height:98.25pt;
  z-index:251659264;visibility:visible;mso-wrap-style:square;
@@ -937,7 +937,7 @@ src="readme-filer/image004.jpg" align=left hspace=12 v:shapes="Bilde_x0020_3"><!
  <v:imagedata src="manus%20kjokkenlampe1-filer/image005.jpg" o:title=""/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=131 height=131
-src="readme-filer/image006.jpg" align=left hspace=12 v:shapes="Bilde_x0020_2"><![endif]><!--[if gte vml 1]><v:shape
+src="README-filer/image006.jpg" align=left hspace=12 v:shapes="Bilde_x0020_2"><![endif]><!--[if gte vml 1]><v:shape
  id="Bilde_x0020_1" o:spid="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
  margin-left:-31.5pt;margin-top:-333.75pt;width:102pt;height:102pt;z-index:251658240;
  visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -950,7 +950,7 @@ src="readme-filer/image006.jpg" align=left hspace=12 v:shapes="Bilde_x0020_2"><!
  <v:imagedata src="manus%20kjokkenlampe1-filer/image007.jpg" o:title=""/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=136 height=136
-src="readme-filer/image008.jpg" align=left hspace=12 v:shapes="Bilde_x0020_1"><![endif]><span
+src="README-filer/image008.jpg" align=left hspace=12 v:shapes="Bilde_x0020_1"><![endif]><span
 lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 </div>
